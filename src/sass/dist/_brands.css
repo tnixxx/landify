@@ -1,0 +1,17 @@
+.brands {
+  margin-top: 40px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-top: 1px solid #E2E2e2;
+  border-bottom: 1px solid #E2E2e2;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.brands-img {
+  margin-right: 64px;
+}
+.brands-img:last-child {
+  margin-right: 0px;
+}
